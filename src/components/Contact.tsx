@@ -34,7 +34,7 @@ Pizzor:`;
             <h3 className="mb-3 text-xl font-semibold">Besök oss</h3>
 
             <p className="text-[#695548]">
-              Romma Rönnäsvägen 36
+              Berg Rönnäsvägen 36
               <br />
               793 91 Leksand
             </p>
