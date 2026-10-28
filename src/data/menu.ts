@@ -10,32 +10,44 @@ export const pizzas: Pizza[] = [
     id: 1,
     name: "Margherita",
     ingredients: "Tomatsås, ost",
-    price: 120,
+    price: 140,
   },
   {
     id: 2,
     name: "Vesuvio",
     ingredients: "Tomatsås, ost, skinka",
-    price: 120,
+    price: 140,
   },
   {
     id: 3,
     name: "Capricciosa",
     ingredients: "Tomatsås, ost, skinka, champinjoner",
-    price: 120,
+    price: 140,
   },
 
   {
     id: 4,
-    name: "Bussola",
-    ingredients: "Tomatsås, ost, skinka, räkor",
-    price: 130,
+    name: "Rosso Diavolo",
+    ingredients: "Tomatsås, ost, salami",
+    price: 165,
   },
   {
     id: 5,
+    name: "Rosso Manza",
+    ingredients: "Tomatsås, ost, rostbiff, hemmaslungad bearnnaisesås",
+    price: 165,
+  },
+  {
+    id: 6,
+    name: "Bianca Manza",
+    ingredients: "Créme fraÎche, ost, rostbiff, hemmaslungad bearnnaisesås",
+    price: 165,
+  },
+  {
+    id: 7,
     name: "Bianca con Pero",
     ingredients:
-      "Créme fraiche, ost, päron, ädelost, valnötter, ringlad honung",
-    price: 145,
+      "Créme fraÎche, ost, päron, ädelost, valnötter, ringlad honung",
+    price: 165,
   },
 ];

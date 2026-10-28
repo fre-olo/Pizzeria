@@ -6,6 +6,7 @@ export default function Navbar() {
 
   const links = [
     { name: "Meny", href: "#meny" },
+    { name: "Beställ", href: "#bestall" },
     { name: "Om oss", href: "#om-oss" },
     { name: "Kontakt", href: "#kontakt" },
   ];
