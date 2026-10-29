@@ -22,3 +22,12 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Booking database
+booking-server/*.db
+booking-server/*.db-shm
+booking-server/*.db-wal
+
+# Dependencies
+booking-server/node_modules/
+booking-server/.env
